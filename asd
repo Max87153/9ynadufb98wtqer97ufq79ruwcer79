@@ -1,1 +1,1 @@
-marcelmanz-41248.portmap.host:41248
+84.46.246.230:25565
